@@ -61,8 +61,8 @@ Currently working on the project from **UI/UX design and prototype → database 
 
 ## 🤝 Let's Connect
 
-2.LinkedIn : https://www.linkedin.com/in/gokulpadmarajan?utm_source=share_via&utm_content=profile&utm_medium=member_android
-3.Medium   : https://medium.com/@gokulpadmarajan.27
+1.LinkedIn : https://www.linkedin.com/in/gokulpadmarajan?utm_source=share_via&utm_content=profile&utm_medium=member_android
+2.Medium   : https://medium.com/@gokulpadmarajan.27
 
 ### 💭 My Philosophy
 
