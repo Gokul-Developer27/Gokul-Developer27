@@ -1,12 +1,69 @@
-👋 Hi, I'm Gokul Padmarajan
+# Hi, I'm Gokul P 👋
 
-🧑‍💻 Backend Developer | Java Specialist | Tech Enthusiast I'm a passionate backend developer with a strong foundation in Java and backend technologies. I enjoy building real world projects and gain hands-on experience in things that I learn through Backend development. 
-🛠️ Tech Stack Languages: Java, Python 
-Version Control: Git & GitHub Designing tool: Figma I use google colab to develop programs 
-📌 Currently Working On I am progressing myself to develop my skills in creating an amazing websites in collaboration with frontend developer.
+### B.Tech AI & Data Science Student | Java Backend Developer | Cloud & AI Enthusiast 🚀
 
-📫 Let's Connect 💼 [LinkedIn] :(https://www.linkedin.com/in/gokul-padmarajan-247940314) 
-💌 Email :gokulpadmarajan.27@gmail.com 
-🌐 Portfolio :(https://www.figma.com/proto/FdkKJ39tzT2vVtPvC57qoD/Gokul-s-Portfolio?node-id=0-1&t=2Uzg75FpCzHhGHmx-1) < "Code, Create, Innovate" >
+🎓 B.Tech Artificial Intelligence & Data Science student at **United Institute of Technology**
 
-Thanks for visiting! Happy Coding 🚀
+💻 Passionate about **Java, Backend Development, AI & Data Science**
+
+☁️ Currently learning **Cloud Fundamentals** and strengthening my backend development skills.
+
+🚀 I believe in **Build while learning** 
+
+
+## About Me
+
+I'm a dedicated student who actually interested in building
+practical software solutions and continuously improving my technical skills.
+
+My current focus is on:
+
+- ☕ Java & Object-Oriented Programming
+- ⚙️ Backend Development
+- 🌱 Spring Boot & REST APIs
+- 🗄️ MySQL & Database Design
+- 🤖 Artificial Intelligence & Data Science
+- ☁️ Cloud Fundamentals
+- 🔧 Problem Solving & Software Development
+
+
+## Technical Skills
+
+### Programming Languages
+
+1.Java
+2.Python
+
+### Database
+
+1.MySQL
+2.MongoDB (basic level)
+
+
+# 🚀 Featured Project
+
+## 🏥 MediNexis
+
+### Online Appointment & Patient Record Management System
+
+A healthcare management system designed to digitally manage:
+
+- 👤 Patient Records
+- 👨‍⚕️ Doctor Profiles
+- 📅 Online Appointments
+- 🩺 Medical Records
+- 💊 Diagnosis & Prescriptions
+- 📊 Admin Management
+
+
+Currently working on the project from **UI/UX design and prototype → database design → backend development → API integration**.
+
+
+## 🤝 Let's Connect
+
+2.LinkedIn : https://www.linkedin.com/in/gokulpadmarajan?utm_source=share_via&utm_content=profile&utm_medium=member_android
+3.Medium   : https://medium.com/@gokulpadmarajan.27
+
+### 💭 My Philosophy
+
+------Learn continuously. Build practically. Collaborate openly. Grow together------
