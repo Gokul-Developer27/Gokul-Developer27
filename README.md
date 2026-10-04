@@ -1,69 +1,139 @@
-# Hi, I'm Gokul P 👋
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=GOKUL%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/><br>"AI & Data Science Student"
 
-### B.Tech AI & Data Science Student | Java Backend Developer | Cloud & AI Enthusiast 🚀
+"Java Backend Developer" • "Cloud & AI Enthusiast"
 
-🎓 B.Tech Artificial Intelligence & Data Science student at **United Institute of Technology**
+<br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+while+learning+%F0%9F%9A%80;Java+%7C+Backend+Development;Learning+Spring+Boot+%26+REST+APIs;Exploring+Cloud+%26+AI;Turning+Ideas+into+Projects+%F0%9F%92%BB" alt="Typing Animation"/></div><br>"🧑‍💻 About Me"
 
-💻 Passionate about **Java, Backend Development, AI & Data Science**
+<br>🎓 "B.Tech Artificial Intelligence & Data Science Student"
 
-☁️ Currently learning **Cloud Fundamentals** and strengthening my backend development skills.
+💻 "Java & Backend Development"
 
-🚀 I believe in **Build while learning** 
+🌱 "Spring Boot & REST APIs"
 
+🗄️ "Database Design"
 
-## About Me
+☁️ "Cloud Fundamentals"
 
-I'm a dedicated student who actually interested in building
-practical software solutions and continuously improving my technical skills.
+🤖 "AI & Data Science"
 
-My current focus is on:
+🧩 "Problem Solving & DSA"
 
-- ☕ Java & Object-Oriented Programming
-- ⚙️ Backend Development
-- 🌱 Spring Boot & REST APIs
-- 🗄️ MySQL & Database Design
-- 🤖 Artificial Intelligence & Data Science
-- ☁️ Cloud Fundamentals
-- 🔧 Problem Solving & Software Development
+<br>I'm focused on building practical software solutions, strengthening my backend development skills, and continuously improving through projects, problem solving, and hands-on learning.
 
+«Build while learning.»
 
-## Technical Skills
+<br>"⚙️ Tech Stack"
 
-### Programming Languages
+<br><div align="center"><img src="https://skillicons.dev/icons?i=java,python,idea,vscode,github,postgresql&perline=6"/><br><br>
 
-1.Java
-2.Python
+"Java"    "Python"    "IntelliJ IDEA"    "VS Code"
 
-### Database
+<br><br>
 
-1.MySQL
-2.MongoDB (basic level)
+"GitHub"    "LeetCode"    "PostgreSQL"
 
+</div><br>"🚀 Featured Project"
 
-# 🚀 Featured Project
+<br><div align="center">"🏥 MediNexis"
 
-## 🏥 MediNexis
+"Online Appointment & Patient Record Management System"
 
-### Online Appointment & Patient Record Management System
+</div><br>"MediNexis" is a healthcare management system designed to digitally manage patient information, doctors, appointments, and medical records.
 
-A healthcare management system designed to digitally manage:
+<br>"Core Features"
 
-- 👤 Patient Records
-- 👨‍⚕️ Doctor Profiles
-- 📅 Online Appointments
-- 🩺 Medical Records
-- 💊 Diagnosis & Prescriptions
-- 📊 Admin Management
+<br>👤 "Patient Records"
 
+<br>👨‍⚕️ "Doctor Management"
 
-Currently working on the project from **UI/UX design and prototype → database design → backend development → API integration**.
+<br>📅 "Appointments"
 
+<br>🩺 "Medical Records"
 
-## 🤝 Let's Connect
+<br>💊 "Diagnosis & Prescriptions"
 
-1.LinkedIn : https://www.linkedin.com/in/gokulpadmarajan?utm_source=share_via&utm_content=profile&utm_medium=member_android
-2.Medium   : https://medium.com/@gokulpadmarajan.27
+<br>📊 "Admin Management"
 
-### 💭 My Philosophy
+<br>"Development Journey"
 
-------Learn continuously. Build practically. Collaborate openly. Grow together------
+<br>"🎨 UI / UX Design"
+
+    ↓
+
+<br>"🧪 Prototype"
+
+    ↓
+
+<br>"🗄️ Database Design" ← Current Stage
+
+    ↓
+
+<br>"⚙️ Backend Development"
+
+    ↓
+
+<br>"🌐 REST API Integration"
+
+<br>«Currently working on "Database Design" as the next stage of the project.»
+
+<br>"🧩 Problem Solving"
+
+<br><div align="center">"Java × LeetCode"
+
+<br>I'm now practicing "LeetCode" consistently to improve my "Java" fundamentals, logical thinking, problem-solving skills, and "DSA" concepts.
+
+</div><br>"🌱 Currently Learning"
+
+<br><div align="center">"Java"
+
+<br>
+↓
+<br><br>"Spring Boot"
+
+<br>
+↓
+<br><br>"REST APIs"
+
+<br>
+↓
+<br><br>"Database Design"
+
+<br>
+↓
+<br><br>"Backend Development"
+
+<br>
+↓
+<br><br>"Cloud Fundamentals"
+
+</div><br>"🔄 My Development Cycle"
+
+<br><div align="center">"LEARN" → "BUILD" → "DEBUG" → "IMPROVE" → "REPEAT"
+
+</div><br>"💡 Developer Mindset"
+
+<br><div align="center">«"Build while learning."»
+
+<br>"Learn something."
+
+"Build something."
+
+"Make mistakes."
+
+"Fix them."
+
+"Keep moving."
+
+</div><br>"🤝 Let's Connect"
+
+<br><div align="center"><a href="https://www.linkedin.com/in/gokulpadmarajan/">
+<img src="https://img.shields.io/badge/LinkedIn-Gokul%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>   
+
+<a href="https://medium.com/@gokulpadmarajan.27">
+<img src="https://img.shields.io/badge/Medium-@gokulpadmarajan.27-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a></div><br><br>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>"Learn continuously. Build practically. Grow consistently."
+
+</div>
